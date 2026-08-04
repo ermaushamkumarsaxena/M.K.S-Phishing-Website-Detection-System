@@ -1,0 +1,29 @@
+Best model: Random Forest
+
+Logistic Regression:
+  Accuracy : 0.9733
+  Precision: 0.9494
+  Recall   : 1.0000
+  F1-score : 0.9740
+  Confusion Matrix:
+[[142   8]
+ [  0 150]]
+
+Random Forest:
+  Accuracy : 0.9933
+  Precision: 0.9933
+  Recall   : 0.9933
+  F1-score : 0.9933
+  Confusion Matrix:
+[[149   1]
+ [  1 149]]
+
+Gradient Boosting:
+  Accuracy : 0.9933
+  Precision: 0.9933
+  Recall   : 0.9933
+  F1-score : 0.9933
+  Confusion Matrix:
+[[149   1]
+ [  1 149]]
+
